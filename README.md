@@ -1,5 +1,5 @@
 
-A Go interface to [ZeroMQ](http://www.zeromq.org/) version 4.
+Moovweb's vendorized repository for a Go interface to [ZeroMQ](http://www.zeromq.org/) version 4.
 
 **Warning: API for ZeroMQ 4.1.0 specific features may change until 4.1.0 is officially released**
 
