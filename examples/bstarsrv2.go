@@ -5,8 +5,8 @@
 package main
 
 import (
-	zmq "github.com/pebbe/zmq4"
-	"github.com/pebbe/zmq4/examples/bstar"
+	zmq "zmq4"
+	"zmq4/examples/bstar"
 
 	"fmt"
 	"os"

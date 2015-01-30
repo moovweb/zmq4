@@ -4,7 +4,7 @@
 package mdapi
 
 import (
-	zmq "github.com/pebbe/zmq4"
+	zmq "zmq4"
 
 	"log"
 	"runtime"

@@ -3,7 +3,7 @@
 package intface
 
 import (
-	zmq "github.com/pebbe/zmq4"
+	zmq "zmq4"
 
 	"code.google.com/p/go-uuid/uuid"
 

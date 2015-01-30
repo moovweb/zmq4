@@ -8,7 +8,7 @@
 package main
 
 import (
-	zmq "github.com/pebbe/zmq4"
+	zmq "zmq4"
 
 	"fmt"
 	"log"

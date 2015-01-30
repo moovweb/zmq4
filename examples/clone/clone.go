@@ -2,8 +2,8 @@
 package clone
 
 import (
-	zmq "github.com/pebbe/zmq4"
-	"github.com/pebbe/zmq4/examples/kvmsg"
+	zmq "zmq4"
+	"zmq4/examples/kvmsg"
 
 	"fmt"
 	"strconv"
