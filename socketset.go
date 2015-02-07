@@ -1,6 +1,9 @@
 package zmq4
 
 /*
+#cgo CFLAGS: -I../../clibs/include
+#cgo LDFLAGS: -lzmq -L../../clibs/lib
+
 #include <zmq.h>
 #include <stdint.h>
 #include <stdlib.h>
